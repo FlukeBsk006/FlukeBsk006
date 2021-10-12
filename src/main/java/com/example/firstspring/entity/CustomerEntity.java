@@ -16,5 +16,4 @@ public class CustomerEntity {
     private String lastname;
     private Integer age;
     private String skills;
-
 }
